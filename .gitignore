@@ -1,0 +1,10 @@
+# Ignore all PDF files
+*.pdf
+**/*.pdf
+
+# Temp & System
+*.tmp
+*.pyc
+__pycache__/
+.DS_Store
+Thumbs.db
