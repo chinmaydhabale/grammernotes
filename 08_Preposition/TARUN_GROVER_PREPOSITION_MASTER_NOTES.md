@@ -120,10 +120,8 @@ Yeh concept exam ka **one of the highest frequency rules** hai:
 | :--- | :--- | :--- |
 | *I am not feeling well, I should go **to home**.* | *I am not feeling well, I should **go home**.* | *Home* is Adverb of Place; no 'to' |
 | *He decided to return **to home** before dark.* | *He decided to **return home** before dark.* | Motion verb + home (no 'to') |
-| *She is going **my home** for the holidays.* | *She is going **to my home** for the holidays.* | *My home* is Noun $
-→$ requires 'to' |
-| *Rohan went **his friend's home** yesterday.* | *Rohan went **to his friend's home** yesterday.* | Possessive Noun $
-→$ requires 'to' |
+| *She is going **my home** for the holidays.* | *She is going **to my home** for the holidays.* | *My home* is Noun → requires 'to' |
+| *Rohan went **his friend's home** yesterday.* | *Rohan went **to his friend's home** yesterday.* | Possessive Noun → requires 'to' |
 
 ---
 
@@ -212,8 +210,7 @@ Tarun Grover sir ka **"Level vs. Vertical Line" Master Matrix**:
 
 ### 📌 Deep Rules for OVER vs. ABOVE:
 1. **Vertical Alignment (लंबवत)**:
-   - Agar koi cheez aapke theek upar (90 degree) hai bina touch kiye $
-→$ **OVER**:
+   - Agar koi cheez aapke theek upar (90 degree) hai bina touch kiye → **OVER**:
      - *There is a ceiling fan **over** my head.* ✅
 2. **Covering Surface (ढकना)**:
    - Kisi cheez ko poori tarah chhadit karne ya dhakne ke liye hamesha **OVER** lagta hai:
@@ -222,25 +219,21 @@ Tarun Grover sir ka **"Level vs. Vertical Line" Master Matrix**:
 3. **Movement across an Obstacle (बाधा पार करना)**:
    - Kisi deewar ya fence ke upar se kood kar nikalna:
    - *The thief jumped **over** the boundary wall.* ✅
-4. **Levels & Standards $
-→$ ABOVE**:
+4. **Levels & Standards → ABOVE**:
    - *His performance was **above** expectations.* ✅
    - *Inflation is currently **above** the RBI's target.* ✅
 
 ---
 
 ### 📌 Deep Rules for UNDER vs. BELOW:
-1. **Vertical Depth $
-→$ UNDER**:
+1. **Vertical Depth → UNDER**:
    - *The dog was resting **under** the shade of the mango tree.* ✅
    - *He hid the secret documents **under** the mattress.* ✅
-2. **Standard, Level & Dignity $
-→$ BELOW**:
+2. **Standard, Level & Dignity → BELOW**:
    - *I will never do anything that is **below my dignity**.* ✅
    - *Those families are living **below** the official poverty line.* ✅
    - *His marks were **below** the cutoff score.* ✅
-3. **Status & Condition $
-→$ UNDER**:
+3. **Status & Condition → UNDER**:
    - *Under control, Under investigation, Under surveillance, Under age, Under repair*.
 
 ---
@@ -270,11 +263,9 @@ Tarun Grover sir ka **"Level vs. Vertical Line" Master Matrix**:
    - **Reasoning**: Helicopter ka wreckage (मलबा) ek mass/uncountable debris hai, discrete countable units nahi.
    - **Correct Answer**: **AMID** the wreckage ✅
 2. *A valuable diamond ring was found _______ the heap of garbage.*
-   - **Reasoning**: Garbage (कूड़ा-कचरा) Uncountable noun hai $
-→$ **AMID** the heap of garbage ✅.
+   - **Reasoning**: Garbage (कूड़ा-कचरा) Uncountable noun hai → **AMID** the heap of garbage ✅.
 3. *The property was divided _______ the four brothers.*
-   - **Reasoning**: Countable plural noun $
-→$ **AMONG** the four brothers ✅.
+   - **Reasoning**: Countable plural noun → **AMONG** the four brothers ✅.
 
 ---
 
@@ -337,11 +328,9 @@ Tarun Grover sir ka **"Scale of Time" Formula**:
 ---
 
 ### ⚠️ Night ke sath Special Distinction:
-- **General Routine (रात में)** $
-→$ **`AT night`**:
+- **General Routine (रात में)** → **`AT night`**:
   - *Owls hunt **at night**.* ✅
-- **Specific Particular Night (उस विशेष रात)** $
-→$ **`IN the night`**:
+- **Specific Particular Night (उस विशेष रात)** → **`IN the night`**:
   - *He woke up suddenly **in the night** due to the thunder.* ✅
 
 ---
@@ -495,96 +484,84 @@ Tarun Grover sir ke masterclass ke sabhi class questions ka detailed Hindi reaso
 ### 📝 Question 1:
 **Question**: *I am not feeling well today, (A) / so I have decided (B) / to go to home early. (C) / No Error (D)*
 - **Error**: Part (C)
-- **Explanation**: Motion verb `go` ke baad jab `home` akele aata hai, to wo Adverb of Place hota hai. Verb aur Adverb ke beech Preposition nahi aati $
-→$ **"to go home early"**.
+- **Explanation**: Motion verb `go` ke baad jab `home` akele aata hai, to wo Adverb of Place hota hai. Verb aur Adverb ke beech Preposition nahi aati → **"to go home early"**.
 
 ---
 
 ### 📝 Question 2:
 **Question**: *She decided to return (A) / back to her home (B) / before sunset. (C) / No Error (D)*
 - **Error**: Part (B)
-- **Explanation**: `Return` ke sath `back` superfluous hai, aur *her home* se pehle `to` theek hai lekin `back` hatana padega $
-→$ **"to return to her home"**.
+- **Explanation**: `Return` ke sath `back` superfluous hai, aur *her home* se pehle `to` theek hai lekin `back` hatana padega → **"to return to her home"**.
 
 ---
 
 ### 📝 Question 3:
 **Question**: *Please send (A) / the official files me (B) / as soon as possible. (C) / No Error (D)*
 - **Error**: Part (B)
-- **Explanation**: Pattern hai `Send + Thing + TO + Person` $
-→$ **"the official files to me"**.
+- **Explanation**: Pattern hai `Send + Thing + TO + Person` → **"the official files to me"**.
 
 ---
 
 ### 📝 Question 4:
 **Question**: *He was walking (A) / along with the railway track (B) / listening to music. (C) / No Error (D)*
 - **Error**: Part (B)
-- **Explanation**: Railway track ke kinare parallel chalne ke liye `along` lagta hai (`along with` company ke liye aata hai) $
-→$ **"along the railway track"**.
+- **Explanation**: Railway track ke kinare parallel chalne ke liye `along` lagta hai (`along with` company ke liye aata hai) → **"along the railway track"**.
 
 ---
 
 ### 📝 Question 5:
 **Question**: *A gold necklace was discovered (A) / among the heap of debris (B) / in the old mansion. (C) / No Error (D)*
 - **Error**: Part (B)
-- **Explanation**: Heap of debris (मलबा) uncountable mass hai, isliye `among` nahi balki `amid` aayega $
-→$ **"amid the heap of debris"**.
+- **Explanation**: Heap of debris (मलबा) uncountable mass hai, isliye `among` nahi balki `amid` aayega → **"amid the heap of debris"**.
 
 ---
 
 ### 📝 Question 6:
 **Question**: *The baby was crying, (A) / so the mother spread (B) / a warm blanket above him. (C) / No Error (D)*
 - **Error**: Part (C)
-- **Explanation**: Kisi cheez ko poori tarah cover karne ya dhakne ke liye `over` lagta hai (`above` nahi) $
-→$ **"blanket over him"**.
+- **Explanation**: Kisi cheez ko poori tarah cover karne ya dhakne ke liye `over` lagta hai (`above` nahi) → **"blanket over him"**.
 
 ---
 
 ### 📝 Question 7:
 **Question**: *Taking bribes is completely (A) / under my dignity, (B) / so I rejected the offer. (C) / No Error (D)*
 - **Error**: Part (B)
-- **Explanation**: Dignity, rank ya standard ke liye `below` lagta hai $
-→$ **"below my dignity"**.
+- **Explanation**: Dignity, rank ya standard ke liye `below` lagta hai → **"below my dignity"**.
 
 ---
 
 ### 📝 Question 8:
 **Question**: *The patient died (A) / from cancer after battling (B) / the illness for two years. (C) / No Error (D)*
 - **Error**: Part (B)
-- **Explanation**: Rog ya bimari se maut hone par `Die OF` lagta hai (`from` external causes ke liye hota hai) $
-→$ **"died of cancer"**.
+- **Explanation**: Rog ya bimari se maut hone par `Die OF` lagta hai (`from` external causes ke liye hota hai) → **"died of cancer"**.
 
 ---
 
 ### 📝 Question 9:
 **Question**: *He has been blind (A) / with the right eye (B) / since childhood. (C) / No Error (D)*
 - **Error**: Part (B)
-- **Explanation**: Kisi ek aankh se andha hone par `Blind IN` lagta hai (`with` dono aankhon ke liye aata hai) $
-→$ **"blind in the right eye"**.
+- **Explanation**: Kisi ek aankh se andha hone par `Blind IN` lagta hai (`with` dono aankhon ke liye aata hai) → **"blind in the right eye"**.
 
 ---
 
 ### 📝 Question 10:
 **Question**: *The affectionate father (A) / is completely blind (B) / in the faults of his son. (C) / No Error (D)*
 - **Error**: Part (C)
-- **Explanation**: Galtiyon ya doshon par aankhein moondne ke liye `Blind TO` lagta hai $
-→$ **"blind to the faults of his son"**.
+- **Explanation**: Galtiyon ya doshon par aankhein moondne ke liye `Blind TO` lagta hai → **"blind to the faults of his son"**.
 
 ---
 
 ### 📝 Question 11:
 **Question**: *The miserly merchant (A) / could never part from (B) / even a single penny of his wealth. (C) / No Error (D)*
 - **Error**: Part (B)
-- **Explanation**: Dhan ya vastu se alag hone ke liye `Part WITH` lagta hai (`part from` insaan ke liye hota hai) $
-→$ **"part with even a single penny"**.
+- **Explanation**: Dhan ya vastu se alag hone ke liye `Part WITH` lagta hai (`part from` insaan ke liye hota hai) → **"part with even a single penny"**.
 
 ---
 
 ### 📝 Question 12:
 **Question**: *The students entered (A) / into the examination hall (B) / precisely at 9:00 AM. (C) / No Error (D)*
 - **Error**: Part (B)
-- **Explanation**: Physical space me dakhil hone ke liye `Enter` ke sath `into` nahi lagta $
-→$ **"entered the examination hall"**.
+- **Explanation**: Physical space me dakhil hone ke liye `Enter` ke sath `into` nahi lagta → **"entered the examination hall"**.
 
 ---
 
@@ -604,7 +581,6 @@ Tarun Grover sir ke masterclass ke sabhi class questions ka detailed Hindi reaso
 | **Blind Prepositions** | **Blind IN** one eye \| **Blind WITH** both eyes \| **Blind TO** faults |
 | **Part Prepositions** | **Part WITH** money/things \| **Part FROM** parents/people |
 | **Lean Prepositions** | **Lean AGAINST** wall \| **Lean UPON** brother \| **Lean TOWARDS** ideology |
-| **Zero Preposition** | *Discuss, Describe, Order, Attack, Enter (room), Accompany* $
-→$ No Preposition |
+| **Zero Preposition** | *Discuss, Describe, Order, Attack, Enter (room), Accompany* → No Preposition |
 
 ---
